@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLabs.Identity.WebApp", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLabs.Client.WebApp", "MyLabs.Client.WebApp\MyLabs.Client.WebApp.csproj", "{AB9F1EBB-979F-4A55-B726-8C07D8AD05B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLabs.Client.WebApp.UnitTests", "MyLabs.Client.WebApp.UnitTests\MyLabs.Client.WebApp.UnitTests.csproj", "{C7C745A3-B894-4B4E-985C-B09D5DC5E7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLabs.Client.TestConsole", "MyLabs.Client.TestConsole\MyLabs.Client.TestConsole.csproj", "{20A60241-6BB6-403C-9E16-83C1E5DD1097}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AB9F1EBB-979F-4A55-B726-8C07D8AD05B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB9F1EBB-979F-4A55-B726-8C07D8AD05B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB9F1EBB-979F-4A55-B726-8C07D8AD05B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C745A3-B894-4B4E-985C-B09D5DC5E7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C745A3-B894-4B4E-985C-B09D5DC5E7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C745A3-B894-4B4E-985C-B09D5DC5E7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C745A3-B894-4B4E-985C-B09D5DC5E7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A60241-6BB6-403C-9E16-83C1E5DD1097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A60241-6BB6-403C-9E16-83C1E5DD1097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A60241-6BB6-403C-9E16-83C1E5DD1097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A60241-6BB6-403C-9E16-83C1E5DD1097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
